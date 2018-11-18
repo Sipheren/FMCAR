@@ -1,6 +1,6 @@
 <template>
   <v-app>
-    <v-toolbar app>
+    <v-toolbar app dark>
       <v-toolbar-title>Hawkos App</v-toolbar-title>
       <v-spacer />
       <v-toolbar-items>
