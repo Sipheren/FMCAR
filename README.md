@@ -1,6 +1,6 @@
 # hawkins_app
 
-> My hunky-dory Nuxt.js project
+> Website Building Test
 
 ## Build Setup
 
