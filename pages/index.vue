@@ -3,12 +3,10 @@
   <v-layout>
     <v-flex xs12>
       <v-carousel>
-        <v-carousel-item src="https://cdn.vuetifyjs.com/images/carousel/squirrel.jpg" />
+        <v-carousel-item src="@/assets/home-slider/slide-1.jpg" />
       </v-carousel>
     </v-flex>
   </v-layout>
-
-  <v-container grid-list-xl>
   <v-layout>
         <v-flex xs4>
       <v-card color="grey" dark>
@@ -29,7 +27,6 @@
       </v-card>
     </v-flex>
   </v-layout>
-  </v-container>
 </div>
 </template>
 

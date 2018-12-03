@@ -1,8 +1,8 @@
 {
-  "name": "hawkins_app",
+  "name": "fmcar-web",
   "version": "1.0.0",
-  "description": "My hunky-dory Nuxt.js project",
-  "author": "David Steedman",
+  "description": "FMCAR Website",
+  "author": "David Hawkins",
   "private": true,
   "scripts": {
     "dev": "nuxt",
